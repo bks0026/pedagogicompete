@@ -86,6 +86,8 @@ Sınıf önünde konuşmak, yabancı dil kaygısının temel kaynaklarından bir
 - Yanlış cevap sesi yumuşaktır.
 - Doğru cevap hemen gösterilir ve oyun devam eder.
 
+Sesli okuma puanı (+50) ayrıca çekingen öğrencilerin konuşma kaygısını ters yöne çevirir. Konuşma artık bireysel bir performans riski değil, takımın ihtiyacı olan değerli bir katkı haline gelir. Düşük riskli bir görev (okuma, bilgi sorgulanmaz), puan gruba gider (pozitif karşılıklı bağımlılık), ve sınıfın dikkatı yargılamadan desteğe dönüşür. Bu yapı, iletişim istekliliğini etkileyen koşulları sağlar: amaca yönelik (puan kazanma), sosyal destek (takım), ve düşük tehdit (hata cezalandırılmaz) (MacIntyre vd., 1998).
+
 ## 3. Gerekli olanlar
 
 - Akıllı tahta (Pardus ETAP) veya bilgisayar ile projeksiyon.
