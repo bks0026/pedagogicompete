@@ -7,7 +7,7 @@ Hazırlayan: @bks0026 · Lisans: CC BY-NC-SA 4.0
 
 ## 1. Amaç
 
-Board Quiz, ünite sonu pekiştirme etkinliğidir. Oyun 25-30 öğrencilik sınıflar için tasarlanmıştır. Bütün sınıf takımlar hâlinde oyuna katılır. Öğrenciler sırayla tahtaya gelir. Her öğrenci soruyu ve seçenekleri sesli okur, sonra cevabı seçer.
+Board Quiz, ünite sonu pekiştirme etkinliğidir. Oyun 25-30 öğrencilik sınıflar için tasarlanmıştır. Bütün sınıf takımlar halinde oyuna katılır. Öğrenciler sırayla tahtaya gelir. Her öğrenci soruyu ve seçenekleri sesli okur, sonra cevabı seçer.
 
 Oyunun hedefleri şunlardır:
 
@@ -86,7 +86,13 @@ Sınıf önünde konuşmak, yabancı dil kaygısının temel kaynaklarından bir
 - Yanlış cevap sesi yumuşaktır.
 - Doğru cevap hemen gösterilir ve oyun devam eder.
 
-Sesli okuma puanı (+50) ayrıca çekingen öğrencilerin konuşma kaygısını ters yöne çevirir. Konuşma artık bireysel bir performans riski değil, takımın ihtiyacı olan değerli bir katkı haline gelir. Düşük riskli bir görev (okuma, bilgi sorgulanmaz), puan gruba gider (pozitif karşılıklı bağımlılık), ve sınıfın dikkatı yargılamadan desteğe dönüşür. Bu yapı, iletişim istekliliğini etkileyen koşulları sağlar: amaca yönelik (puan kazanma), sosyal destek (takım), ve düşük tehdit (hata cezalandırılmaz) (MacIntyre vd., 1998).
+Sesli okuma puanı (+50), çekingen öğrenciler için sosyal baskının yönünü de tersine çevirir. Sınıf önünde konuşmak artık bireysel bir risk değildir. Konuşmak, takımın puan kazanması için gereken bir katkıdır. Bunun üç nedeni vardır:
+
+- **Görev düşük risklidir:** Öğrenci yalnızca okur. Okumanın yanlış cevabı yoktur.
+- **Puan takıma gider:** Öğrencinin sesli okuması takıma puan kazandırır. Bu durum olumlu dayanışmayı güçlendirir (Johnson ve Johnson, 2009).
+- **Takım arkadaşları yargılamaz, destekler:** Arkadaşları öğrencinin konuşmasını bekler, çünkü bu konuşma takıma puan kazandırır.
+
+Bu koşullar, öğrencinin yabancı dilde iletişim istekliliğini (willingness to communicate) artırır: iletişimin bir amacı vardır, grup öğrenciyi destekler ve tehdit düşüktür (MacIntyre, Clément, Dörnyei ve Noels, 1998).
 
 ## 3. Gerekli olanlar
 
@@ -191,6 +197,7 @@ Board Quiz, CC BY-NC-SA 4.0 lisansı ile paylaşılır. Oyunu ticari olmayan eğ
 - Keller, J. M. (1987). Development and use of the ARCS model of instructional design. *Journal of Instructional Development, 10*(3), 2-10.
 - Krashen, S. D. (1982). *Principles and practice in second language acquisition*. Pergamon.
 - Lyster, R., ve Ranta, L. (1997). Corrective feedback and learner uptake. *Studies in Second Language Acquisition, 19*(1), 37-66.
+- MacIntyre, P. D., Clément, R., Dörnyei, Z., ve Noels, K. A. (1998). Conceptualizing willingness to communicate in a L2: A situational model of L2 confidence and affiliation. *The Modern Language Journal, 82*(4), 545-562.
 - Roediger, H. L., ve Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249-255.
 - Sailer, M., ve Homner, L. (2020). The gamification of learning: A meta-analysis. *Educational Psychology Review, 32*(1), 77-112.
 - Slavin, R. E. (1995). *Cooperative learning: Theory, research, and practice* (2nd ed.). Allyn and Bacon.
