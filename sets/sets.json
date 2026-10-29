@@ -14,6 +14,14 @@
     "set": "B"
   },
   {
+    "name": "Grade 7 · Theme 2 · Set A",
+    "folder": "grade7-theme2-set1",
+    "grade": 7,
+    "theme": 2,
+    "set": "A",
+    "note": "4 teams, shuffle off"
+  },
+  {
     "name": "Grade 9 · Theme 1 · Set A",
     "folder": "grade9-theme1-set1",
     "grade": 9,
