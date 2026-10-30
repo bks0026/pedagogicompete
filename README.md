@@ -152,7 +152,7 @@ Bir takım bütün sorularını doğru cevaplarsa ekranda kutlama gösterilir.
 
 ## 7. Öğretmen kontrolleri
 
-Öğretmen kontrolleri ekranın sağ üst köşesindedir.
+"Read aloud +50" düğmesi, ipucu ve joker düğmelerinin altındadır. "Pause" düğmesi ekranın sağ üst köşesindedir.
 
 - **Read aloud +50:** Sesli okuma puanını verir. Yanlışlıkla bastıysanız düğmeye tekrar basın. Puan geri alınır.
 - **Pause:** Ekranı karartır ve süreyi durdurur. Bu düğmeyi şu durumlarda kullanın:
